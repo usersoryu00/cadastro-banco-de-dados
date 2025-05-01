@@ -114,7 +114,7 @@ def menu():
 
 
 
-# Inicia o programa
+
 menu()
 
 
